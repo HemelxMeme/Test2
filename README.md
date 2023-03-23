@@ -1,16 +1,16 @@
-Welcome Guys
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+Welcome Guys 
+
+![]( A9 Video)
 
 
 
 AUTHOR:
 <p align="center">
-U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+A9 Cyber Security <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
 </br>
 <p align="center">
-      Tarmux Stylish Op banner Header..
+      Tarmux Stylish  banner Header..
 
 </p>
   
@@ -27,11 +27,8 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
  cd $HOME 
  rm -rf Stylish-BANNER
  git clone https://github.com/U7P4L-IN/OP-BANNER.git
-
  cd Stylish-BANNER
-
  ls
-
  python2 Stylish-Banner.py
 ```
 #### Screenshots:
